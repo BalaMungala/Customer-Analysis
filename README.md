@@ -1,5 +1,5 @@
 # Customer-Analysis-
-                                                              customer analysis using Tableau
+                                                  customer analysis using Tableau
                                                               
 Business Scenario :
 
