@@ -8,3 +8,6 @@ Mary Miles, the head of Sales for a retail products company, is responsible for 
 
 
 ![](https://github.com/BalaMungala/Customer-Analysis/blob/master/ca/Slide1.PNG)
+![](https://github.com/BalaMungala/Customer-Analysis/blob/master/ca/Slide2.PNG)
+![](https://github.com/BalaMungala/Customer-Analysis/blob/master/ca/Slide3.PNG)
+![](https://github.com/BalaMungala/Customer-Analysis/blob/master/ca/Slide4.PNG)
